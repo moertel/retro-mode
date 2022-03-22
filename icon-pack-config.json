@@ -5,8 +5,10 @@
     "below": 96
   },
   "releaseNotes": [
-    "Added 20 new icons",
-    "Improved accessibility features",
-    "Added remote config support"
+     "<![CDATA[<b><font color=#ffae00>Icons: </font></b>]]> 20 new icons",
+     "<![CDATA[<b>Feature: </b>]]> Dynamic calendar icon support",
+     "<![CDATA[<b>Feature: </b>]]> Check for updates",
+     "<![CDATA[<b>Improvement: </b>]]> Screen reader texts",
+     "<![CDATA[<b>Improvement: </b>]]> Remote config support"
   ]
 }
