@@ -1,2 +1,3 @@
-# retro-mode-icon-pack-config
-Remote configuration for the Android pixel art icon pack Retro Mode
+# Retro Mode
+
+A minimalist pixel art icon pack for Android
