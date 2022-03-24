@@ -1,14 +1,13 @@
 {
-  "latestVersion": "0.9.6",
-  "latestVersionCode": 96,
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 100,
   "disableRequest": {
-    "below": 96
+    "below": 100
   },
   "releaseNotes": [
-     "Icons: 20 new icons",
+     "Icons: 86 new icons",
      "Feature: Dynamic calendar icon support",
      "Feature: Check for updates",
-     "Improvement: Screen reader texts",
-     "Improvement: Remote config support"
+     "Improvement: Screen reader texts"
   ]
 }
