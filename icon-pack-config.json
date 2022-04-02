@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.0",
-  "latestVersionCode": 100,
+  "latestVersion": "1.1.2",
+  "latestVersionCode": 112,
   "disableRequest": {
-    "below": 100
+    "below": 112
   },
   "releaseNotes": [
-     "Icons: 86 new icons",
-     "Feature: Dynamic calendar icon support",
-     "Feature: Check for updates",
-     "Improvement: Screen reader texts"
+     "Icons: 50 new icons",
+     "New feature: wallpapers",
+     "New feature: analog clock widget",
+     "New feature: text date widget"
   ]
 }
