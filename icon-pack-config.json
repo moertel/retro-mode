@@ -1,13 +1,15 @@
 {
-  "latestVersion": "1.1.2",
-  "latestVersionCode": 112,
+  "latestVersion": "1.2.5",
+  "latestVersionCode": 125,
   "disableRequest": {
-    "below": 112
+    "below": 125
   },
   "releaseNotes": [
-     "Icons: 50 new icons",
-     "New feature: wallpapers",
-     "New feature: analog clock widget",
-     "New feature: text date widget"
+    "Icons: 167 new icons",
+    "New: 4 wallpapers",
+    "New: Customise date widget",
+    "New: Customise greeting widget",
+    "Use own locale for date widget",
+    "Support for more latin characters (é, ö, ß, etc.)"
   ]
 }
