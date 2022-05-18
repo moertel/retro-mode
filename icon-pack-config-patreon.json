@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.2.7",
+  "latestVersionCode": 127,
+  "disableRequest": {
+    "below": 127
+  },
+  "releaseNotes": [
+    "Icons: 131 new icons",
+    "New: 2 wallpapers",
+    "New: XXL icon request add-on",
+    "New: Muzei support"
+  ]
+}
