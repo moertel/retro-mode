@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.2.10",
-  "latestVersionCode": 1210,
+  "latestVersion": "1.3.3",
+  "latestVersionCode": 1303,
   "disableRequest": {
-    "below": 1210
+    "below": 1303
   },
   "releaseNotes": [
-    "Icons: 130 new icons"
+    "Icons: 170 new icons"
   ]
 }
