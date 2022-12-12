@@ -1,12 +1,11 @@
 {
-  "latestVersion": "1.3.8",
-  "latestVersionCode": 1308,
+  "latestVersion": "1.4.0",
+  "latestVersionCode": 1400,
   "disableRequest": {
-    "below": 1308
+    "below": 1400
   },
   "releaseNotes": [
-    "Icons: 100 new icons",
-    "Wallpapers: 1 new wallpaper",
-    "Widgets: 1 new calendar widget"
+    "Icons: 125 new icons",
+    "Wallpapers: 2 new wallpapers"
   ]
 }
