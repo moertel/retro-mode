@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.4.0",
-  "latestVersionCode": 1400,
+  "latestVersion": "1.5.1",
+  "latestVersionCode": 1501,
   "disableRequest": {
-    "below": 1400
+    "below": 1501
   },
   "releaseNotes": [
-    "Icons: 125 new icons",
-    "Wallpapers: 2 new wallpapers"
+    "Icons: 157 new icons",
+    "Widgets: New digital clock"
   ]
 }
