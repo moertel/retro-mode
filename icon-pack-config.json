@@ -1,11 +1,13 @@
 {
-  "latestVersion": "1.5.1",
-  "latestVersionCode": 1501,
+  "latestVersion": "1.5.6",
+  "latestVersionCode": 1506,
   "disableRequest": {
-    "below": 1501
+    "below": 1506
   },
   "releaseNotes": [
-    "Icons: 157 new icons",
-    "Widgets: New digital clock"
+    "Icons: 160 new icons",
+    "Icons: Calendar icon displays current date",
+    "Widgets: Assign a shortcut to any widget",
+    "Font: Full support for Polish letters"
   ]
 }
