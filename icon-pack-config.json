@@ -1,13 +1,12 @@
 {
-  "latestVersion": "1.5.6",
-  "latestVersionCode": 1506,
+  "latestVersion": "1.6.0",
+  "latestVersionCode": 1060003,
   "disableRequest": {
-    "below": 1506
+    "below": 1060003
   },
   "releaseNotes": [
-    "Icons: 160 new icons",
-    "Icons: Calendar icon displays current date",
-    "Widgets: Assign a shortcut to any widget",
-    "Font: Full support for Polish letters"
+    "Icons: 315 new icons",
+    "Widgets: New shortcut widget",
+    "Launchers: KISS and Neo launcher added"
   ]
 }
